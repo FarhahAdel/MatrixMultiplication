@@ -1,7 +1,9 @@
 # Matrix Multiplication
-Applying matrix multiplication using threads
-a) Computation of each element of the output matrix happens in a thread.
-b) Computation of each row of the output matrix happens in  a thread 
+Applying matrix multiplication using threads, Used algorithms:
+
+a. Computation of each element of the output matrix happens in a thread.
+
+b. Computation of each row of the output matrix happens in  a thread.
 
 **example input:**
 
